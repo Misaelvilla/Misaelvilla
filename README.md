@@ -1,7 +1,7 @@
 # Hi there, I'm Misael 👋
 
-I'm a Creative Developer focus on modern frontend development, user-centered design, web applications and interesting UX .  
-Currently working on **[COOLED](https://github.com/LuisArtur05/PFC)** and **[IC-Paises-Bajos](https://github.com/Misaelvilla/reservas_IC-Paises-Bajos)** — focused on full-stack development with Java, Spring Boot, React, and PostgreSQL.
+I'm a Creative Developer focus on modern frontend development, user-centered design, web applications and interested in UX .  
+Currently working on **[COOLED](https://github.com/LuisArtur05/PFC)** and **[IC-Paises-Bajos](https://github.com/Misaelvilla/reservas_IC-Paises-Bajos)** focused on full-stack development with Java, Spring Boot, React, and PostgreSQL.
 
 ---
 
